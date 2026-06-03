@@ -1,0 +1,6 @@
+{
+  "name": "Nirvana AI Therapist",
+  "description": "An AI-powered luxury mental wellness sanctuary offering empathetic counseling, sentiment analytics, and interactive zen wellness games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
